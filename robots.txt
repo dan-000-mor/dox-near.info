@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://dox-near.info/dox.xml
